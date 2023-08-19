@@ -1,0 +1,171 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Theme.qml</file>
+        <file>IconButton.qml</file>
+        <file>Icons/Cars/Model 3-1.svg</file>
+        <file>Icons/Cars/model 3-1_new.svg</file>
+        <file>Icons/Cars/Model 3-2.svg</file>
+        <file>Icons/Cars/Model 3-2_new.svg</file>
+        <file>Icons/Cars/Model 3.svg</file>
+        <file>Icons/Cars/model 3_new.svg</file>
+        <file>Icons/adjustments.svg</file>
+        <file>Icons/alert.svg</file>
+        <file>Icons/arrow.svg</file>
+        <file>Icons/battery.svg</file>
+        <file>Icons/bluetooth.svg</file>
+        <file>Icons/brightness.svg</file>
+        <file>Icons/camera.svg</file>
+        <file>Icons/cell signal.svg</file>
+        <file>Icons/charging station.svg</file>
+        <file>Icons/cruise control.svg</file>
+        <file>Icons/Cruise Setting.svg</file>
+        <file>Icons/defrost.svg</file>
+        <file>Icons/destination.svg</file>
+        <file>Icons/display.svg</file>
+        <file>Icons/dragme.svg</file>
+        <file>Icons/exit.svg</file>
+        <file>Icons/expand music.svg</file>
+        <file>Icons/fan.svg</file>
+        <file>Icons/glovebox.svg</file>
+        <file>Icons/headlights-small.svg</file>
+        <file>Icons/headlights.svg</file>
+        <file>Icons/heart.svg</file>
+        <file>Icons/heater.svg</file>
+        <file>Icons/left turn.svg</file>
+        <file>Icons/lights.svg</file>
+        <file>Icons/lock.svg</file>
+        <file>Icons/microphone.svg</file>
+        <file>Icons/minus.svg</file>
+        <file>Icons/mirror.svg</file>
+        <file>Icons/model3-icon-small.svg</file>
+        <file>Icons/model3-icon.svg</file>
+        <file>Icons/music.svg</file>
+        <file>Icons/navicon.svg</file>
+        <file>Icons/navigate icon.svg</file>
+        <file>Icons/phone.svg</file>
+        <file>Icons/play pause.svg</file>
+        <file>Icons/plus.svg</file>
+        <file>Icons/power.svg</file>
+        <file>Icons/quick controls.svg</file>
+        <file>Icons/right turn - 4 way.svg</file>
+        <file>Icons/right turn.svg</file>
+        <file>Icons/safety and security.svg</file>
+        <file>Icons/search.svg</file>
+        <file>Icons/seat.svg</file>
+        <file>Icons/service.svg</file>
+        <file>Icons/Speed Limit.svg</file>
+        <file>Icons/steering wheel-small.svg</file>
+        <file>Icons/steering wheel.svg</file>
+        <file>Icons/tire pressure.svg</file>
+        <file>Icons/track.svg</file>
+        <file>Icons/volume.svg</file>
+        <file>Icons/wiper.svg</file>
+        <file>Icons/Tesla Logo.svg</file>
+        <file>Icons/black/bluetooth.svg</file>
+        <file>Icons/black/cell signal.svg</file>
+        <file>Icons/black/lock.svg</file>
+        <file>Icons/black/Tesla Logo.svg</file>
+        <file>Icons/unknown/Vector 9.svg</file>
+        <file>Icons/unknown/dark/Group.png</file>
+        <file>Icons/unknown/light/Group.png</file>
+        <file>Icons/dark/camera.svg</file>
+        <file>Icons/dark/microphone.svg</file>
+        <file>Icons/dark/power.svg</file>
+        <file>Icons/unknown/dark/minus.svg</file>
+        <file>Icons/unknown/dark/plus.svg</file>
+        <file>Icons/unknown/light/minus.svg</file>
+        <file>Icons/unknown/light/plus.svg</file>
+        <file>Icons/Cars/headlights.png</file>
+        <file>Component/TButton.qml</file>
+        <file>Icons/unknown/dark/scale.svg</file>
+        <file>Icons/unknown/light/scale.svg</file>
+        <file>Component/SettingsDialog.qml</file>
+        <file>Component/SideListModel.qml</file>
+        <file>Component/SideListDelegate.qml</file>
+        <file>Icons/Settings/display.svg</file>
+        <file>Icons/Settings/lights.svg</file>
+        <file>Icons/Settings/lock.svg</file>
+        <file>Icons/Settings/model3-icon-small.svg</file>
+        <file>Icons/Settings/quick controls.svg</file>
+        <file>Icons/Settings/safety and security.svg</file>
+        <file>Icons/Settings/service.svg</file>
+        <file>Icons/Settings/steering wheel-small.svg</file>
+        <file>Icons/Settings/light/display.svg</file>
+        <file>Icons/Settings/light/lights.svg</file>
+        <file>Icons/Settings/light/lock.svg</file>
+        <file>Icons/Settings/light/model3-icon-small.svg</file>
+        <file>Icons/Settings/light/quick controls.svg</file>
+        <file>Icons/Settings/light/safety and security.svg</file>
+        <file>Icons/Settings/light/service.svg</file>
+        <file>Icons/Settings/light/steering wheel-small.svg</file>
+        <file>Component/SettingsPages/QuickControl.qml</file>
+        <file>Component/SettingsPages/Lights.qml</file>
+        <file>Component/SettingsPages/Lock.qml</file>
+        <file>Component/SettingsPages/Display.qml</file>
+        <file>Component/SettingsPages/Driving.qml</file>
+        <file>Component/SettingsPages/Autopilote.qml</file>
+        <file>Component/SettingsPages/SafetyAndSecurity.qml</file>
+        <file>Component/SettingsPages/Service.qml</file>
+        <file>Component/TSwitch.qml</file>
+        <file>Component/LabelSelector.qml</file>
+        <file>Component/SearchBox.qml</file>
+        <file>Icons/dark/navigate icon.svg</file>
+        <file>Component/TSlider.qml</file>
+        <file>Icons/mirror_dark.svg</file>
+        <file>Icons/adjustments_dark.svg</file>
+        <file>Icons/headlights-small_dark.svg</file>
+        <file>Icons/display_dark.svg</file>
+        <file>Icons/wiper_dark.svg</file>
+        <file>Icons/Parking Brake Icon.svg</file>
+        <file>Icons/Parking Brake Icon_dark.svg</file>
+        <file>Component/SettingsPages/MapThemes.qml</file>
+        <file>Icons/dark/gear.svg</file>
+        <file>Icons/gear.svg</file>
+        <file>Icons/Settings/light/gear.svg</file>
+        <file>Icons/Settings/gear.svg</file>
+        <file>Icons/current_location_dark.svg</file>
+        <file>Icons/current_location_light.svg</file>
+        <file>Icons/navigation_dark.svg</file>
+        <file>Icons/navigation_light.svg</file>
+        <file>Music/assets/fonts/fontawesome.otf</file>
+        <file>Music/assets/icons8-music-record-48.png</file>
+        <file>Music/assets/icons8-music-record-96.png</file>
+        <file>Music/qml/components/AppIcon.qml</file>
+        <file>Music/qml/components/MenuPopup.qml</file>
+        <file>Music/qml/components/MusicDelegateMenuPopup.qml</file>
+        <file>Music/qml/components/RoundProgressBar.qml</file>
+        <file>Music/qml/components/TopNavBar.qml</file>
+        <file>Music/qml/delegates/MusicDelegate.qml</file>
+        <file>Music/qml/views/PlayingView.qml</file>
+        <file>Music/qml/views/PlaylistView.qml</file>
+        <file>Music/qml/Music.qml</file>
+        <file>Icons/Driver Temp.svg</file>
+        <file>Icons/search_dark.svg</file>
+        <file>Dashboard.qml</file>
+        <file>Icons/car.png</file>
+        <file>whether/components/BigForecastIcon.qml</file>
+        <file>whether/components/ForecastIcon.qml</file>
+        <file>whether/components/WeatherIcon.qml</file>
+        <file>whether/icons/ic_launcher.png</file>
+        <file>whether/icons/weather-few-clouds.png</file>
+        <file>whether/icons/weather-fog.png</file>
+        <file>whether/icons/weather-haze.png</file>
+        <file>whether/icons/weather-icy.png</file>
+        <file>whether/icons/weather-overcast.png</file>
+        <file>whether/icons/weather-showers.png</file>
+        <file>whether/icons/weather-sleet.png</file>
+        <file>whether/icons/weather-snow.png</file>
+        <file>whether/icons/weather-storm.png</file>
+        <file>whether/icons/weather-sunny-very-few-clouds.png</file>
+        <file>whether/icons/weather-sunny.png</file>
+        <file>whether/icons/weather-thundershower.png</file>
+        <file>Icons/28-white-clouds-png-image.png</file>
+        <file>Music/qml/views/DashboardPlayingView.qml</file>
+        <file>Icons/youtube.svg</file>
+        <file>Icons/spotify.svg</file>
+        <file>Icons/spotify_circle.svg</file>
+        <file>Icons/Adesh.jpg</file>
+    </qresource>
+</RCC>
